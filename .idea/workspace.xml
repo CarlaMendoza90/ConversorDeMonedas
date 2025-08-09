@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24152e65-f51d-4a8c-8f18-8d8ad755c247" name="Changes" comment="[NUEVO] Acceso a la API">
-      <change afterPath="$PROJECT_DIR$/src/Conversor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MenuMonedas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monedas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RespuestaConversor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="24152e65-f51d-4a8c-8f18-8d8ad755c247" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ConversorDeMonedas/Principal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,21 +30,21 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "CarlaMendoza90"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;CarlaMendoza90&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/CarlaMendoza90/ConversorDeMonedas",
-    "accountId": "941cb401-332e-47a9-9674-c083bbcd3bd4"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/CarlaMendoza90/ConversorDeMonedas&quot;,
+    &quot;accountId&quot;: &quot;941cb401-332e-47a9-9674-c083bbcd3bd4&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="311UJf6OrtBOOc4zxtT4VcyQWWs" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -62,6 +56,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/Melanie/Desktop/carla/Programacion/Alura/ConversorDeMonedas/lib",
     "node.js.detected.package.eslint": "true",
@@ -113,7 +108,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1754691002761</updated>
-      <workItem from="1754691005508" duration="16592000" />
+      <workItem from="1754691005508" duration="16882000" />
+      <workItem from="1754763108895" duration="5337000" />
     </task>
     <task id="LOCAL-00001" summary="Primer commit">
       <option name="closed" value="true" />
@@ -139,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754694966536</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="VERSION 1">
+      <option name="closed" value="true" />
+      <created>1754714559474</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1754714559474</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +156,7 @@
     <MESSAGE value="Primer commit" />
     <MESSAGE value="[NUEVO] Importamos GSON" />
     <MESSAGE value="[NUEVO] Acceso a la API" />
-    <option name="LAST_COMMIT_MESSAGE" value="[NUEVO] Acceso a la API" />
+    <MESSAGE value="VERSION 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="VERSION 1" />
   </component>
 </project>
